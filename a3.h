@@ -1,7 +1,9 @@
 class Builder{
 
 public: 
-
+	//add a pure virtual function for building chairs
+	//add a pure virtual function for building tables
+	//add a pure virtual function for building computers
 };
 
 class Director{
